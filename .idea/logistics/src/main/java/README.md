@@ -5,7 +5,8 @@ Praticando 1 exercício por dia como parte do plano de estudos.
 
 ## Desafios
 
-| # | Nome | Dificuldade |
-|---|------|-------------|
+| #  | Nome | Dificuldade |
+|----|------|-------------|
 | 01 | FizzBuzz | Fácil |
 | 02 | Calculadora de Faturamento | Médio |
+| 03 | Soma de Números Pares | Fácil |
