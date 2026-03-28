@@ -1,7 +1,10 @@
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class TwoSum {
+
 
     public int[] calcularValoresOtimizado(List<Integer> lista) {
         int alvo = 100;
@@ -9,13 +12,13 @@ public class TwoSum {
 
         for (int i = 0; i < lista.size(); i++) {
             int numero = lista.get(i);
-            int complemento = ;
+            int complemento = alvo - numero;
 
-            if (vistos.lista(complemento)) {
+            if (vistos.containsKey(complemento)) {
                 return new int[]{vistos.get(complemento), i};
             }
 
-            vistos.put(, );
+            vistos.put(numero, i);
         }
         return new int[]{};
     }
@@ -23,7 +26,7 @@ public class TwoSum {
     public static void main(String[] args) {
         TwoSum teste = new TwoSum();
 
-        int[] resultado = teste.calcularValores(List.of(30,40,50,60,70));
+        int[] resultado = teste.calcularValoresOtimizado(List.of(30,40,50,60,70));
         System.out.println(Arrays.toString(resultado));
     }
 }
