@@ -10,3 +10,4 @@ Praticando 1 exercício por dia como parte do plano de estudos.
 | 01 | FizzBuzz | Fácil |
 | 02 | Calculadora de Faturamento | Médio |
 | 03 | Soma de Números Pares | Fácil |
+| 05 | Two Sum | Médio |
