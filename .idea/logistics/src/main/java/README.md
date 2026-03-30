@@ -12,3 +12,4 @@ Praticando 1 exercício por dia como parte do plano de estudos.
 | 03 | Soma de Números Pares | Fácil |
 | 04 | Two Sum | Médio |\
 | 05 | Two Sum — HashMap O(n) | Médio/Difícil |
+| 06 | Gerador de Horários | Fácil |
