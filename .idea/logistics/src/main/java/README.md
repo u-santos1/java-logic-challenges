@@ -14,3 +14,4 @@ Praticando 1 exercício por dia como parte do plano de estudos.
 | 05 | Two Sum — HashMap O(n) | Médio/Difícil |
 | 06 | Gerador de Horários | Fácil |
 | 07 | Anagrama | Médio |
+| 08 | Palíndromo | Médio |
